@@ -12,5 +12,3 @@ function wrapAdjective(string = '*'){
         return `You are ${string}${adjective}${string}!`;
     }
 }
-
-// original copy
